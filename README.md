@@ -29,7 +29,7 @@ I have **recently started coding**, and this repo is mainly for **practice, lear
 ## 🛠 Tech Used
 
 - **Language:** Java  
-- **Tools:** VS Code / IntelliJ IDEA  
+- **Tools:**  IntelliJ IDEA  
 - **Version Control:** Git & GitHub  
 
 ---
