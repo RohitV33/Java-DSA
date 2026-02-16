@@ -30,4 +30,5 @@ bin/
 .DS_Store
 
 .idea/
-java dsa.iml/
+*.iml
+README.md
